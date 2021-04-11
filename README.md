@@ -19,5 +19,5 @@
 - it uses key to fetch data from api
 - calling api && its response is handled by paging 3
 
-[Header & Footer - MVVM Image Search App with Architecture Components & Retrofit #8](https://youtu.be/EjD_3ifOxVA "Named link title")
+[Header & Footer - MVVM Image Search App with Architecture Components & Retrofit #8](https://youtu.be/sLY7ywrYUNw?t=841 "Named link title")
 
